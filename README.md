@@ -10,7 +10,7 @@ sudo apt update
 
 sudo apt install git
 
-git clone "link"
+git clone "https://github.com/mirkooz01/TapoCommander.git"
 
 cd Tapo Commander
 
